@@ -1,3 +1,2 @@
 # JavaScript-Basic-Projects
-This is a basic ToDoList webApp that has been made by myself.
-it has fundamental funtionalities like add,check and delete.
+This repository offers a comprehensive README template that you can use as a starting point for your projects.
